@@ -1,0 +1,16 @@
+header{
+   background-color:#5e2129;
+}
+
+nav{
+   height: 60px;
+}
+
+.experiencia{
+   color: #5e2129;
+   font-weight: 700;
+}
+
+.progress-bar.bg-primary{
+   background-color: #5e2129 !important;
+}
